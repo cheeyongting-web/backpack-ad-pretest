@@ -1,1 +1,1 @@
-window.SURVEY_CONFIG = { endpoint: '', contact: 'yong-ting.chee@hec.edu' };
+window.SURVEY_CONFIG = { endpoint: 'https://backpack-pretest-submit.cheeyongting.workers.dev/', contact: 'yong-ting.chee@hec.edu' };
